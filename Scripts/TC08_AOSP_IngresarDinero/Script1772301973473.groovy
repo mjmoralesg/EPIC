@@ -17,10 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
-
+/*
 WebUI.callTestCase(findTestCase('TC05_AOSP_LogInClaveEspecial - BrowserStack'), [('L_CorreoElectronicoInicioSesion') : 'annabella181@hotmail.com'
         , ('L_Contrasena') : 'abC.12345', ('L_ClaveEspecial') : '1912', ('L_ClaveAccesoRapido') : '3333'], FailureHandling.STOP_ON_FAILURE)
-
+*/
 'Icono Ingresar Dinero'
 Mobile.tap(findTestObject('Object Repository/Ingresar dinero/IconoIngresarDinero'), GlobalVariable.G_ShortTime)
 
