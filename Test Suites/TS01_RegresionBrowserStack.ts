@@ -103,43 +103,43 @@
       <guid>b62a8bc8-c744-4ab2-9680-4e144c7c17d2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC03_AOSP_RegistroUsuario</testCaseId>
+      <testCaseId>Test Cases/TC03_AOSP_RegistroUsuario - BrowserStack</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>f862723d-6c3a-49c6-8db1-6f1b93586531</variableId>
+         <variableId>fe27e49d-d4aa-49ae-8acb-3bac95d43caf</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>844286f7-5f2e-461c-ab8f-c8b7e214499a</variableId>
+         <variableId>700327ba-7e1d-4587-8fd1-2e9b170c2216</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>819aa411-634e-4c06-a3c2-cd834ae48aae</variableId>
+         <variableId>bfd37d1a-276f-4aed-8937-1282c0fdd7e3</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>4a59a99b-5579-4620-87e8-873e1856479f</variableId>
+         <variableId>6b28ad10-5f7b-42d6-becb-33d654693720</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>a855192a-de94-49b1-8b6a-e240afa98ad3</variableId>
+         <variableId>af89dbf7-4d93-4a7b-92de-65f63de01d75</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>66720dcf-f309-457a-8737-1f8728bab3c8</variableId>
+         <variableId>531933d0-c494-4f2c-82ff-90fab3f15963</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
