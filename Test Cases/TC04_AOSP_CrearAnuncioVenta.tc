@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Generar un nuevo anuncio de Compra para realizar una transacción P2P</description>
+   <name>TC04_AOSP_CrearAnuncioVenta</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3439945b-409b-4711-ba29-f5f6182e6147</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>39ac5ff3-8fe7-4697-8263-abc46ba127d4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9ccf37e3-c072-4393-9629-684b043cb714</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>39ac5ff3-8fe7-4697-8263-abc46ba127d4</id>
+      <masked>false</masked>
+      <name>digitoTeclado</name>
+   </variable>
+   <variable>
+      <defaultValue>'automationvicky@yopmail.com'</defaultValue>
+      <description>Correo en el que se recibe el código de verificación</description>
+      <id>9ccf37e3-c072-4393-9629-684b043cb714</id>
+      <masked>false</masked>
+      <name>CorreoOTP</name>
+   </variable>
+</TestCaseEntity>

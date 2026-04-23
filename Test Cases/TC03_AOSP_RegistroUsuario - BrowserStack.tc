@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Caso de prueba para validar el registro de un nuevo usuario en la aplicación</description>
+   <name>TC03_AOSP_RegistroUsuario - BrowserStack</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5efca4b8-6630-4882-a84c-5f3881febbc8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fe27e49d-d4aa-49ae-8acb-3bac95d43caf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>700327ba-7e1d-4587-8fd1-2e9b170c2216</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bfd37d1a-276f-4aed-8937-1282c0fdd7e3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6b28ad10-5f7b-42d6-becb-33d654693720</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>af89dbf7-4d93-4a7b-92de-65f63de01d75</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>531933d0-c494-4f2c-82ff-90fab3f15963</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Prueba'</defaultValue>
+      <description>Nombre del nuevo usuario a registrar</description>
+      <id>fe27e49d-d4aa-49ae-8acb-3bac95d43caf</id>
+      <masked>false</masked>
+      <name>Nombre</name>
+   </variable>
+   <variable>
+      <defaultValue>' Automatizacion'</defaultValue>
+      <description>Apellido del nuevo usuario a registrar</description>
+      <id>700327ba-7e1d-4587-8fd1-2e9b170c2216</id>
+      <masked>false</masked>
+      <name>Apellido</name>
+   </variable>
+   <variable>
+      <defaultValue>'testingepic5@yopmail.com'</defaultValue>
+      <description>Correo electrónico del nuevo usuario a registrar</description>
+      <id>bfd37d1a-276f-4aed-8937-1282c0fdd7e3</id>
+      <masked>false</masked>
+      <name>CorreoElectronico</name>
+   </variable>
+   <variable>
+      <defaultValue>'Prueba1234!'</defaultValue>
+      <description>Password del nuevo usuario a registrar</description>
+      <id>6b28ad10-5f7b-42d6-becb-33d654693720</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'A7F9K2P3Q'</defaultValue>
+      <description>Código de rgistro según el ambiente (STG)</description>
+      <id>af89dbf7-4d93-4a7b-92de-65f63de01d75</id>
+      <masked>false</masked>
+      <name>CodigoRegistro</name>
+   </variable>
+   <variable>
+      <defaultValue>'4026'</defaultValue>
+      <description>Clave de acceso rápido del usuario</description>
+      <id>531933d0-c494-4f2c-82ff-90fab3f15963</id>
+      <masked>false</masked>
+      <name>ClaveAccesoRapido</name>
+   </variable>
+</TestCaseEntity>

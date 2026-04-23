@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validar que se puedan enviar USDT de una cuenta de Epic a otra cuenta de EPic mediante correo electórnico</description>
+   <name>TC02_AOSP_EnvioEpicAEpic</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1142bc0e-549a-4776-a094-990cbe287623</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e4548709-76a0-489c-be98-b4f52ceb24af</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>32a4f84b-d2d3-4751-bc78-cc2d0277cba2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6d78fad3-5299-440c-a56a-524fb0a68638</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'automationvicky@yopmail.com'</defaultValue>
+      <description>Correo del usuario de Epic al que se le envia dinero</description>
+      <id>e4548709-76a0-489c-be98-b4f52ceb24af</id>
+      <masked>false</masked>
+      <name>L_CorreoElectronicoEnvio</name>
+   </variable>
+   <variable>
+      <defaultValue>'Prueba QA'</defaultValue>
+      <description>Motivo por el cual se envía dinero</description>
+      <id>32a4f84b-d2d3-4751-bc78-cc2d0277cba2</id>
+      <masked>false</masked>
+      <name>L_Motivo</name>
+   </variable>
+   <variable>
+      <defaultValue>'1912'</defaultValue>
+      <description>Clave Especial</description>
+      <id>6d78fad3-5299-440c-a56a-524fb0a68638</id>
+      <masked>false</masked>
+      <name>L_ClaveEspecial</name>
+   </variable>
+</TestCaseEntity>

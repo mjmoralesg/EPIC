@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Loguearse a un dispositivo Android con un usuario y contraseña válidos</description>
+   <name>TC01_AOSP_LogIn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b174e552-1f5a-4fe8-954a-efddb4483ae6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f63809cc-31ee-46e6-9238-de0c2a64cb1b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b4a1ead4-a2c6-4efa-ab44-42725c90db78</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4275f8f9-1c1c-419c-a778-a39b67f9c1a8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testingepic@yopmail.com'</defaultValue>
+      <description>Variable para almacenar Correo electrónico para el incio de sesión</description>
+      <id>f63809cc-31ee-46e6-9238-de0c2a64cb1b</id>
+      <masked>false</masked>
+      <name>L_CorreoElectronicoInicioSesion</name>
+   </variable>
+   <variable>
+      <defaultValue>'Prueba1234!'</defaultValue>
+      <description>Variable para almacenar la Contraseña en el inicio de sesión</description>
+      <id>b4a1ead4-a2c6-4efa-ab44-42725c90db78</id>
+      <masked>false</masked>
+      <name>L_Contrasena</name>
+   </variable>
+   <variable>
+      <defaultValue>'4026'</defaultValue>
+      <description>Correo en el que se recibe el código de verificación</description>
+      <id>4275f8f9-1c1c-419c-a778-a39b67f9c1a8</id>
+      <masked>false</masked>
+      <name>L_ClaveEspecial</name>
+   </variable>
+</TestCaseEntity>

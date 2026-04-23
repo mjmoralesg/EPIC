@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Nombre de la APK del proyecto</description>
+      <initValue>'EpicAPKPRD.apk'</initValue>
+      <name>G_NombreAPK</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Tiempo mínimo de espera</description>
+      <initValue>5</initValue>
+      <name>G_ShortTime</name>
+      <protected>false</protected>
+      <valueType>NUMBER</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Tiempo máximo de espera</description>
+      <initValue>30</initValue>
+      <name>G_LongTime</name>
+      <protected>false</protected>
+      <valueType>NUMBER</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Excel donde se guarda la información de Epic</description>
+      <initValue>'Data Epic PRD.xlsx'</initValue>
+      <name>G_NombreExcel</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

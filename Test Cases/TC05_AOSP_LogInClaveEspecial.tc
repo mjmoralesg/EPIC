@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Loguearse a un dispositivo Android con un usuario y contraseña válidos</description>
+   <name>TC05_AOSP_LogInClaveEspecial</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96039cce-bafe-45f5-8d61-4e38ab7754c9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f4b4e44e-0393-4056-859a-1a0b1943892d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05687dad-b68e-4a18-9e55-dc0fdedf85ee</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7bdc4367-1cde-42ee-8e09-9cfc9b0e31e9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'annabella181@hotmail.com'</defaultValue>
+      <description>Variable para almacenar Correo electrónico para el incio de sesión</description>
+      <id>f4b4e44e-0393-4056-859a-1a0b1943892d</id>
+      <masked>false</masked>
+      <name>CorreoElectronicoInicioSesion</name>
+   </variable>
+   <variable>
+      <defaultValue>'Legije66/'</defaultValue>
+      <description>Variable para almacenar la Contraseña en el inicio de sesión</description>
+      <id>05687dad-b68e-4a18-9e55-dc0fdedf85ee</id>
+      <masked>false</masked>
+      <name>Contrasena</name>
+   </variable>
+   <variable>
+      <defaultValue>'1912'</defaultValue>
+      <description>Clave especial </description>
+      <id>7bdc4367-1cde-42ee-8e09-9cfc9b0e31e9</id>
+      <masked>false</masked>
+      <name>IngresoClaveEspecial</name>
+   </variable>
+</TestCaseEntity>

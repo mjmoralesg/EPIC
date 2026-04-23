@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Retiros con destino a otra Wallet (Binance)</description>
+   <name>TC07_AOSP_Retirar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54b7cb08-cd4b-4c8b-8f94-9930210f384c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>15b2d2d2-e21f-4331-ac74-62294cd281e6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0bd21d99-6ed2-462c-8538-c2a927af0883</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dde00f26-c6c5-41dd-9dd5-d802357803d4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'\r\nTAF7puayfVvojJUovHNbjJ6sHDCfkW7bWq\r\n'</defaultValue>
+      <description>Cuenta o dirección de la BlocKchain de la otra Wallet  </description>
+      <id>15b2d2d2-e21f-4331-ac74-62294cd281e6</id>
+      <masked>false</masked>
+      <name>CuentaCripto</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0bd21d99-6ed2-462c-8538-c2a927af0883</id>
+      <masked>false</masked>
+      <name>digitoTeclado</name>
+   </variable>
+   <variable>
+      <defaultValue>'1912'</defaultValue>
+      <description>Clave especial como metodo de autenticacion para confirmar la transaccion de retiro</description>
+      <id>dde00f26-c6c5-41dd-9dd5-d802357803d4</id>
+      <masked>false</masked>
+      <name>ClaveEspecial</name>
+   </variable>
+</TestCaseEntity>

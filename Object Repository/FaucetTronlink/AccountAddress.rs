@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>Dirección de la billetera de Tronlink para TRX</description>
+   <name>AccountAddress</name>
+   <tag></tag>
+   <elementGuidId>a5e4881d-3bb2-4c65-9d1c-6a80478db404</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id='getCoinAddress'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>getBttAddress</value>
+      <webElementGuid>de470925-e110-4d9e-8e83-bc35c7775bfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>765cf2c5-a45f-40c5-bf39-8303f3dd3e9a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

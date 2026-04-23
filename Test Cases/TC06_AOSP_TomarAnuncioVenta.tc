@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Comprar el anuncio de venta</description>
+   <name>TC06_AOSP_TomarAnuncioVenta</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b04d8a7-e47f-460d-b73b-8db3970f4319</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0cffd357-ead2-46b7-a67e-20f2262cd8d5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d2ca3927-683c-4025-b19e-454310044a77</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0cffd357-ead2-46b7-a67e-20f2262cd8d5</id>
+      <masked>false</masked>
+      <name>digitoTeclado</name>
+   </variable>
+   <variable>
+      <defaultValue>'4026'</defaultValue>
+      <description>Clave para confirmar la transaccion</description>
+      <id>d2ca3927-683c-4025-b19e-454310044a77</id>
+      <masked>false</masked>
+      <name>ClaveEspecial</name>
+   </variable>
+</TestCaseEntity>

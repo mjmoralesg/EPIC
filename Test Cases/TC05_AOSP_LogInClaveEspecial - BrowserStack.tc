@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Loguearse a un dispositivo Android con un usuario y contraseña válidos</description>
+   <name>TC05_AOSP_LogInClaveEspecial - BrowserStack</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de6311d8-c85d-4a2f-a16b-66a017850b82</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d295e48f-b026-4c68-b61f-f68a65bfd778</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1b25cae8-1481-4031-90fa-fb5f15664faa</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>db9c9fec-8905-4efd-8c4b-e5c7a6d96eaf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3147bd2-ebc9-46bc-992f-f6b3c8e97f76</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'annabella181@hotmail.com'</defaultValue>
+      <description>Variable para almacenar Correo electrónico para el incio de sesión</description>
+      <id>d295e48f-b026-4c68-b61f-f68a65bfd778</id>
+      <masked>false</masked>
+      <name>L_CorreoElectronicoInicioSesion</name>
+   </variable>
+   <variable>
+      <defaultValue>'abC.12345'</defaultValue>
+      <description>Variable para almacenar la Contraseña en el inicio de sesión</description>
+      <id>1b25cae8-1481-4031-90fa-fb5f15664faa</id>
+      <masked>false</masked>
+      <name>L_Contrasena</name>
+   </variable>
+   <variable>
+      <defaultValue>'1912'</defaultValue>
+      <description>Clave especial </description>
+      <id>db9c9fec-8905-4efd-8c4b-e5c7a6d96eaf</id>
+      <masked>false</masked>
+      <name>L_ClaveEspecial</name>
+   </variable>
+   <variable>
+      <defaultValue>'3333'</defaultValue>
+      <description></description>
+      <id>b3147bd2-ebc9-46bc-992f-f6b3c8e97f76</id>
+      <masked>false</masked>
+      <name>L_ClaveAccesoRapido</name>
+   </variable>
+</TestCaseEntity>

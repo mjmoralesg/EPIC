@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Funcionalidad del menú inferior del Home para hacer ingresos de dinero de diferentes monedas a traves de Redes</description>
+   <name>TC08_AOSP_IngresarDinero</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>349d14a1-f342-49cf-840b-ee7052cc3539</testCaseGuid>
+</TestCaseEntity>
